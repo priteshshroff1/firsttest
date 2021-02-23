@@ -6,6 +6,7 @@ public class iibTest {
 	
 
 		int i=10;
+		int b=11;
 		//System.out.println("I am in IIB");
 	
 	
